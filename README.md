@@ -42,7 +42,7 @@ Escribe una función que reciba tres números y devuelva el mayor de ellos.
 # 13.Contar palabras
 Crea una función que reciba una cadena y devuelva cuántas palabras contiene.
 
-# m14.Suma de una lista
+# 14.Suma de una lista
 Escribe una función que reciba una lista de números y devuelva la suma de todos
 ellos.
 
